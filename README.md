@@ -1,2 +1,2 @@
-In Proteus cmd "WDR" disable watchdog timer, details [here](https://stackoverflow.com/questions/55696940/wdr-seems-to-disable-watchdog-timer)
+In Proteus cmd "WDR" disable watchdog timer, details [here](https://stackoverflow.com/questions/55696940/wdr-seems-to-disable-watchdog-timer) and [here](https://support.labcenter.com/forums/viewtopic.php?t=8514)
 Tested with Proteus 8.13
